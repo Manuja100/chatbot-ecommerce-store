@@ -6,4 +6,4 @@ Methodology -
 Steps - 
 
 Step 1 - Creating the intents file
-Step 2 - 
+Step 2 - Creating files for the chatbot, Flask app and the functions

@@ -2,7 +2,8 @@
 
 <h3>Chatbot for an E-commerce store selling clothes</h3>
 
-Features - 
+Features -
+
 <ul>
   <li>Respond to users</li>
   <li>Give users product info</li>
@@ -10,7 +11,10 @@ Features -
 </ul>
 
 Technologies used
--Python
--Tensorflow
--Flask
--nltk
+
+<ul>
+  <li>Python</li>
+  <li>Tensorflow</li>
+  <li>Flask</li>
+  <li>nltk</li>
+</ul>
