@@ -1,0 +1,9 @@
+Methodology - 
+    Create an intents file which contains the responses for the users
+    Train a model using the intents file so the model will respond to the user by detecting tags
+    Create special tags for functions such as giving out product info and order information =
+
+Steps - 
+
+Step 1 - Creating the intents file
+Step 2 - 
