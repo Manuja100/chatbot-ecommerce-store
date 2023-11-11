@@ -1,6 +1,6 @@
 # chatbot-ecommerce-store
 
-<h3>Chatbot system for an E-commerce store selling cloaths</h3>
+<h3>Chatbot system for an E-commerce store selling clothes</h3>
 
 Features - 
 <ul>
